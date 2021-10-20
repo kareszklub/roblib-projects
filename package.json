@@ -13,6 +13,7 @@
 	},
 	"dependencies": {
 		"@kareszklub/roblib-client": "github:kareszklub/roblib-client#main",
+		"dotenv": "^10.0.0",
 		"socket.io-client": "^4.3.2"
 	},
 	"devDependencies": {
